@@ -100,7 +100,6 @@ Class | Method | HTTP request | Description
 *WalletApi* | [**post_balance_change**](docs/WalletApi.md#post_balance_change) | **POST** /v1/wallet/token_balance_change | 
 *WalletApi* | [**post_check_tx**](docs/WalletApi.md#post_check_tx) | **POST** /v1/wallet/check_tx | 
 *WalletApi* | [**post_estimate_gas**](docs/WalletApi.md#post_estimate_gas) | **POST** /v1/wallet/estimate_gas | 
-*AccountApi* | [**get_order_list**](docs/AccountApi.md#get_order_list) | **GET** /account/order_list | 
 
 
 ## Documentation For Models
